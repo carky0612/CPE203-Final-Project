@@ -1,0 +1,8 @@
+how to trigger the event
+2. what should happen when the event is triggered: a picnic blanket with a bee will appear
+3. what the affected entities should do: when the bee is clicked close enough to flowers, you will earn points
+4. what the new entity is and how it should behave: The bee is also controlled by the arrow keys, you get more points when you get close to flowers!
+You aren't allowed to just sit on flowers and collect points, they will kick you off when you need to take a break!
+You aren't allowed to fly offscreen either!
+If you feel like there are no live flowers left because all the bears are eating them, don't worry! The gardener will use his A* pathing to replant them for you!
+Get 20 points and you win!!!!
